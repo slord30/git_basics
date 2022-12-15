@@ -24,14 +24,14 @@ Important steps for git workflow:
   $ git init</br>
   Initialized empty Git repository in .../repo_name/.git/</br>
   (.git directory will be added to your new repository. It can be deleted if you accidentally initialize in the wrong directory.)</br>
-Check status of those files with git status</br>
+*Check status of those files with git status*</br>
   $ git status</br>
-Stage changes for commit</br>
+*Stage changes for commit*</br>
   $ git add .  </br>
   (can check status again. You should see the files are staged, ready to be committed)</br>
-Commit changes to version history</br>
+*Commit changes to version history*</br>
   $ git commit -m 'Add first project files'</br>
-Review previous changes with git log</br>
+*Review previous changes with git log*</br>
   $ git log</br>
   
 ### Push code to GitHub
